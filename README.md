@@ -3,4 +3,4 @@
 
 ## Bakery project from Noroff
 
-### This project is targeting the process off working with authencitaction in javascript
+### This a simple project, targeting the process off working with authencitaction in javascript. 
